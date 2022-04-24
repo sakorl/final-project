@@ -60,3 +60,18 @@ header .menu .home .all{
     height: 70px;
 
 } */
+
+.categories .popular-song img{
+    margin-left: 40px;
+    width: 150px;
+}
+.categories .popular-song .h3{
+    margin: 20px 0px 20px ;
+    margin-left:45%;
+    color: rgb(123, 126, 228);
+}
+.categories .popular-song .h3:hover{
+    color: rgb(59, 59, 151);
+    transition: .3s linear;
+}
+
